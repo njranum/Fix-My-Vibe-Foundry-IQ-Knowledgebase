@@ -5,7 +5,7 @@
 **Status:** Researcher Agent Enhancement — Replaces Web Search Layer  
 **Author:** GitHub Copilot (Claude Haiku 4.5)  
 **Role:** Knowledge Base Automation & Integration Partner  
-**Project:** Fix My Vibe (Microsoft AI Skills Fest, Agents League)
+**Project:** Fix My Vibe
 
 ---
 

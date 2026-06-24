@@ -1,6 +1,6 @@
 # Fix My Vibe — Foundry IQ Knowledge Base
 
-> Azure AI Search knowledge base powering the Researcher agent in [Fix My Vibe](https://github.com/njranum/Fix-My-Vibe) — Microsoft AI Skills Fest, Agents League
+> Azure AI Search knowledge base powering the Researcher agent in [Fix My Vibe](https://github.com/njranum/Fix-My-Vibe)
 
 This repo builds and maintains the curated security knowledge base that the Fix My Vibe Researcher agent queries instead of relying on web search alone. It ingests authoritative sources (OWASP, CWE, NIST, framework docs) into an Azure AI Search index, giving the agent grounded, citable, low-latency answers for known security patterns.
 
